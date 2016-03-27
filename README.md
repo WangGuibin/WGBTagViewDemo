@@ -2,4 +2,12 @@
 提供一个标签云思路的Demo
 ###标签云的思路
 >1.定制一个`collectionView`的`cell`,可以是`UILabel` `UIButton`... 以字符的字体算cell的尺寸,让它自适应宽度(为了美观起见 一般不让它换行)
+<br />
+
 >2.基本上没什么特别的使用方法,只是之前没尝试过,特此写下来做个笔记,原来`collectionView`还可以这么玩..
+#####长啥样的?如下图所示:
+
+/Users/ddys/Desktop/github开源项目/WGBTagViewDemo/Simulator Screen Shot 2016年3月27日 09.59.21.png
+
+#####长啥样的?如下图所示:
+/Users/ddys/Desktop/github开源项目/WGBTagViewDemo/rilegou.gif
