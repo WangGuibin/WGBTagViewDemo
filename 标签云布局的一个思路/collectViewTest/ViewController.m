@@ -1,7 +1,7 @@
 //
 //  ViewController.m
 //  collectViewTest
-//
+// github地址https://github.com/WangGuibin/WGBTagViewDemo
 //  Created by Wangguibin on 16/3/27.
 //  Copyright © 2016年 DDYS. All rights reserved.
 //
